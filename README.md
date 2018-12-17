@@ -14,7 +14,7 @@ micro:bit | SARA N210
 ---------:|----------
 P0 | RXD
 P1 | TXD
-3V (see note above) | VCC
+3V (see note above) | 3v3
 GND | GND
 
 ### Example wiring for EE-NBIOT-01
